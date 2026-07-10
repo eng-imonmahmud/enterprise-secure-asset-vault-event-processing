@@ -1,5 +1,7 @@
 # Enterprise Secure Asset Vault & Event-Driven Processing Architecture
 
+**By Imon Mahmud** | *IT SPECIALIST | CLOUD INFRASTRUCTURE & AI AUTOMATION ENGINEER*
+
 ![Project Status](https://img.shields.io/badge/Status-Active%20%7C%20Production%20Ready-success)
 ![Platform](https://img.shields.io/badge/Platform-Google%20Cloud-blue)
 ![Architecture](https://img.shields.io/badge/Architecture-Serverless%20Event--Driven-orange)
